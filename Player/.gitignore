@@ -1,0 +1,5 @@
+aws-data.json
+dist
+typings
+src/**/*.js
+src/**/*.js.map

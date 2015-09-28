@@ -1,0 +1,28 @@
+html {
+    height: 100%; width: 100%;
+}
+body {
+    padding-top: 52px;
+    height: 100%;
+    margin: auto;
+}
+nav {
+    /*height: 10%;*/
+}
+#pane {
+    height: 100%; margin: auto; width: 100%;
+}
+#videoPane {
+    border:solid black thin; height: 75%; width: 100%;
+}
+#inputJson {
+    width:100%;
+    resize:vertical;
+    min-height:150px;
+}
+
+#logPane {
+    border:solid black thin; height: 20%; width: 100%;
+    overflow-x: scroll;
+    overflow-style: auto;
+}
